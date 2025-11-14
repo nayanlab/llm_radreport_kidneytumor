@@ -1,2 +1,1 @@
-# llm_radreport_kidneytumor
-This repository contains code related to extracting information from radiology reports about kidney tumors using large language models and regular expressions.
+We used electronic health record data from a large academic hospital to retreive radiology reports related to kidney tumors. We then developed prompts and regular expressions to extraction information related to kidney tumors.
