@@ -76,7 +76,7 @@ def impression_fillednarrative(row):
 # Folder Location:
 path = ''
 # File Name
-df = pd.read_excel(fr'{path}\filename.xlsl')
+df = pd.read_excel(fr'{path}\10_sample_input.xlsl')
 
 
 # Create the new column 'narrative_imp_combined' 
